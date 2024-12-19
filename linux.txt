@@ -1,0 +1,10 @@
+ Comandos Linux:
+
+1 cat : Sirve para mostrar el contenido de archivos de texto en la terminal y puede concatenar varios archivos
+
+2 ps: Muestra los procesos en ejecución en el sistema
+
+
+3. grep: Busca patrones de texto en archivos el como filtrar, o algo parecido a la letra /g en los patrones regex
+
+4. tail: Muestra las últimas líneas de un archivo, aparte de signfica cola en ingles

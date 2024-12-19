@@ -1,0 +1,3 @@
+Electrónica básica:
+
+La respuesta es la C, Salida Normal Abierto (NO) conexión en paralelo!
